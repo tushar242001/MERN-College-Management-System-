@@ -74,11 +74,4 @@ Add this document in your College Management Collection in MongoDB Compass in **
 } 
 ```
 
-Then add the below document without any changes in **Admin Credentials**
 
-```
-{
-  "loginid": 123123,
-  "password": "112233",
-}
-```
